@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Best Places</title> 
+        <link href="Digital.css" type="text/css" rel="stylesheet"/> 
+    </head> 
+
+    <body>
+    		<h1>Best Places</h1>
+            
+            <h2>Best Places shows you where all the local hot spots are in all seasons in CO.</h2>
+            
+            <li><a href="Digital Commune.html">Home</a></li>
+            <Div class="ex">
+            <ul>
+            <p><img src="Winter_warriors.JPG" width="150" height="85" alt="winter" longdesc="http://winter">
+             <td class="description">Winter: Check out Vail, Boulder, Monarch, Aspen, Durango, and Glenwood</td></p>
+            <p><img src="Home_Spring.JPG" width="150" height="85" alt"spring" longdesc="http://spring">
+             <td class="description">"Spring: Check out Monument, Criple Creek, Fort Collins, Denver, and Boulder</td></p>
+            <p><img src="Home_Summer.JPG" width="150" height="85" alt="summer" londesc="http://summer">
+             <td class="description">Summer: Hit up the Royal Gorge, Alamosa, and Colorado Springs</td></p>
+            <p><img src="Home_Fall.JPG" width="150" height="85" alt="fall" longdesc="http://fall">
+             <td class="description">Fall:  Hit up Pagosa Springs, Fort Collins, and Chyanne Canyon</td></p>
+            <h3>Avoid Pueblo at all times</h3>
+            </ul>
+            </Div>
+    </body>
+</html>

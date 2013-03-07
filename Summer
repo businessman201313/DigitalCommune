@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>      
+    <title>Summer</title>
+    <link href="Digital.css" type="text/css" rel="stylesheet"/>
+    </head>
+
+    <body>
+    		<h1>Summer</h1>
+            <ul>
+            <li><a href="Digital Commune.html">Home</a></li>
+        <div class="ex">
+        <p>Colorado really doesn't get too hot, warm enough for shorts, but you most likely wont be dying of thirst any time soon.  On the flip side, be prepared for rain when you go camping.  There will be lots of afternoon showers in the mountains so pack accordingly.</p>
+        <p> Get some wheat beer! Its the right season to kick back and just watch the thunder clouds roll in.  Live it up with some smooth beverages. </p>
+        </div>
+
+    </body>
+</html>

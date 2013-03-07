@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>      
+    <title>Winter</title>
+    <link href="Digital.css" type="text/css" rel="stylesheet"/>
+    </head>
+
+    <body>
+    		<h1>Winter</h1>
+            <ul>
+            <li><a href="Digital Commune.html">Home</a></li>
+        <div class="ex">
+        <p> Winter in Colorado is beautiful. Obviously you'll want to be in the snow packed high country for the best places to see.  Unless you're around a ski resort you'll be blissfully alone winter camping.  Bring some warm closths and lots of layers.  The respective gear you should have will be a snow shovel, water proof matches, snow shoes and ice grips for your boots.</p>
+        <p> One word of warning, you never want to make camp under a tree.  This is because when you light a fire, the rising heat will melt the snow in the branches and before long you'll be buried under a half melted pile of no fun.</p>
+        <h2> Now for your Beverage!</h2>
+        <p> The winter months are best accented by a strong hoppy beer in my opinion... or a schnapps & hot chocolate mix.  Either way, you're going to have a good time.</p>
+        </div>
+
+    </body>
+</html>

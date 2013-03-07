@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>      
+    <title>Fall</title>
+    <link href="Digital.css" type="text/css" rel="stylesheet"/>
+    </head>
+
+    <body>
+    		<h1>Fall</h1>
+            <ul>
+            <li><a href="Digital Commune.html">Home</a></li>
+        <div class="ex">
+        <p> During Autumn, you definitely want to bring warm clothes.  Beginning as early as October snow fall is plentiful in the state.  Therefore, you want to be aware of future weather conditions.  In this time of year it is important to layer your clothes.  What feels like 60-70 degree weather in the High Plains like Denver, Colorado Springs, and Fort Collins can easily feel like the low 50's in the "High Country" (mountains).</p>
+        <p> Now for your beverage choices.  Since the this is apple season, I'd recomend a hard cider for those camping adventures.  A hard cider and your uncle Jimbo to discuss the finer points of why you can't catch a fish and want to head back home.</p>
+        </div>
+
+    </body>
+</html>

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+	<title>General Gear</title>
+    <link href="Digital.css" type="text/css" rel="stylesheet"/>
+	</head>
+
+	<body>
+			<h1>General Gear</h1>
+
+            <ul>
+            <li><a href="Digital Commune.html">Home</a></li>
+            
+		<div class="ex">
+        <p>The general Gear page gives you the basic informaion of the gear needed for
+        the first time outdoorsmen and women.</p>
+        <p>Depending on the kind of exscurision you plan on doing, camping, day hiking, short hike, fishing, hunting, etc. will largely determine what you need to bring. For the purpose of this blog however, we will focus on camping. The things you definitely need are a good set of hiking boots, water container, and a hat to keep the sun off your domepeice. In addition you should have a sleeping bag, food storage, a knife or multitool, and of course a tent. These things will keep you happy and cozy in your venture out into the bowels of mother nature that most definietly want you dead.  As with every camping trip, the most important thing you will ever bring is Beer. The holy of holies, never forget your liquid bread my friends.</p>
+        </div>
+        <div class="description">
+        <h2>Recap: </h2>
+        	<p> Hat</p>
+            <p> Boots</p>
+            <p> Water bottle</p>
+            <p> knife or multitool</p>
+            <p> sleeping bag</p>
+            <p> tent</p>
+            <p> food storage</p>
+            <p> Beer</p>
+        </div>
+	</body>
+</html>

@@ -1,0 +1,41 @@
+body {
+    font-family:'Trebuchet MS', sans-serif;
+	background-color:#FFF;
+	text-align:center;}
+	
+	h1{
+		color:#000;
+		text-align:center}
+	
+	h2{
+		color:#000;
+		text-align:center}
+
+ul{
+	list-style: inside circle:
+	width:300px:
+	}
+li{
+	display:inline;
+	text-align:center;
+}
+td.description{
+	min-width:450px:
+	max-width:650px:
+	text-align:left:
+	padding:50px:
+	margin:10px:}
+
+div.ex{
+width:600px;
+padding:50px;
+border:25px solid black;
+margin:25px auto;
+}
+
+div.description{
+	width:300px;
+	padding:50px;
+	border:25px solid black;
+	margin:25px auto;
+}

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>      
+    <title>Manifesto</title>
+    <link href="Digital.css" type="text/css" rel="stylesheet"/>
+    </head>
+
+    <body>
+    		<h1>Manifesto</h1>
+            <ul>
+            <li><a href="Digital Commune.html">Home</a></li>
+        <div class="ex">
+        <p> The purpose of the Digital Commune is to provide outdoors enthusiasts with a
+        community and knowledge of the greater CO area in all seasons and the varied flvors of beverage that will go well with your chosen envirnoment and respective season. </p>
+        <p> Happy camping, and don't forget the beer.</p>
+        <!--how can I get this to be better?-->
+        </div>
+
+    </body>
+</html>

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <Head>
+    <title>Digital Commune Home</title>
+    <link href="Digital.css" type="text/css" rel="stylesheet"/>
+    </head>
+<body>
+    	<h1>Digital Commune</h1>
+        <h2>An Outsider's Guide</h2>
+            <li><a href="Digital manifesto.html"> Manifesto</a></li>
+            <li><a href="Digital gear.html">General Gear</a></li>
+<li><a href="Digital best places.html">Best Places</a></li>
+
+    <p>
+      <a href="winter.html">
+      <img src="Winter_warriors.JPG" width="350" height="250" alt="winter" longdesc="http://winter"></a>
+      <!--Winter img-->
+  	  <a href="Spring.html">
+      <img src="Home_Spring.JPG" width="350" height="250" alt"spring" longdesc="http://spring"></a>
+     </p>
+    <p>
+      <!--Spring img-->
+      <a href="Summer.html">
+      <img src="Home_Summer.JPG" width="350" height="250 alt="summer" londesc="http://summer"></a>
+      <!--Summer img-->
+      <a href="Fall.html">
+      <img src="Home_Fall.JPG" width="350" height="250" alt="fall" longdesc="http://fall"></a>
+    </p>
+		
+
+
+</body>
+</html>
